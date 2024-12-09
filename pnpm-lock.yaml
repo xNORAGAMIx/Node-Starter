@@ -1,0 +1,13 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      bin:
+        specifier: link:/home/NORAGAMI/WEB-DEV/node-starter-package/bin
+        version: link:bin
